@@ -1,5 +1,3 @@
-# Address Book Management System 📖
-
 An **Address Book Management System** written in **C** that allows users to store, search, update, and delete contact information efficiently using file handling and data structures.
 
 ---
